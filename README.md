@@ -9,6 +9,6 @@
 
 
 Tech Stack
-![image](https://user-images.githubusercontent.com/99220001/181132205-4ffc35f7-e56b-4f46-a5e1-cb3bf574908f.png)  PostgreSQL  HTML  CSS  Git  GitHub  Markdown Tableau  Excel  Pandas  NumPy  SciPy  scikit-learn  TensorFlow  Keras  PyTorch 
+- Python - PostgreSQL  - HTML  - CSS  - Git  - GitHub  - Markdown  - Tableau  - Excel  - Pandas  - NumPy  - SciPy  - scikit-learn  - TensorFlow  - Keras  - PyTorch 
 <!--
 **kreedyle/kreedyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
