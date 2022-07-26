@@ -7,5 +7,8 @@
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me in/kyle-reed
 
+
+Tech Stack
+Python  PostgreSQL  HTML  CSS  Git  GitHub  Markdown  Visual Studio Code  Tableau  Excel  Pandas  NumPy  SciPy  scikit-learn  TensorFlow  Keras  PyTorch 
 <!--
 **kreedyle/kreedyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
