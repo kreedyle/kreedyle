@@ -8,7 +8,7 @@
 - 📫 How to reach me in/kyle-reed
 
 
-Tech Stack
+- Tech Stack -
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-05122A?style=flat&logo=HTML5)&nbsp;
