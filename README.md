@@ -5,7 +5,7 @@
 - 🎓 My expected graduation date from General Assembly Data Science Bootcamp is August 16, 2022.
 - 💚 I am a lover of all things music, animals, travel, and board games.
 - 😄 Pronouns: he/him/his
-- 📫 How to reach me <a href='https://www.linkedin.com/in/reed-kyle/'>LinkedIn Profile</a>
+- 📫 How to reach me <a href='https://www.linkedin.com/in/reed-kyle/'>LinkedIn</a>
 
 
 Tech Stack
