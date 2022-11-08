@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Kyle Reed.
 - 📍 I reside in Denver, Colorado.
-- 🌱 Right now, I’m having some fun with the #maven_pizza_challenge.
+- 🌱 Right now, I’m learning about relational databases through freeCodeCamp.org.
 - 🎓 General Assembly Data Science grad as of August, 2022.
 - 💚 I am a lover of all things music, animals, travel, and board games.
 - 😄 Pronouns: he/him/his
