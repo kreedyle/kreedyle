@@ -1,8 +1,8 @@
 - 👋 Hi, my name is Kyle Reed.
-- 📍 I reside in Denver, Colorado.
+- 📍 I reside in Virginia Beach, VA.
 - 🌱 Right now, I’m learning about relational databases through freeCodeCamp.org.
 - 🎓 General Assembly Data Science grad as of August, 2022.
-- 💚 I am a lover of all things music, animals, travel, and board games.
+- 💚 I am a lover of all things food, music, travel, and animals.
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me <a href='https://www.linkedin.com/in/reed-kyle/'>LinkedIn</a>
 
